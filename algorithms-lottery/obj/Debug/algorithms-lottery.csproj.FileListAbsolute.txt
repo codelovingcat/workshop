@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\workshop\algorithms-lottery\bin\Debug\algorithms-lottery.exe.config
+C:\Users\urems\source\repos\workshop\algorithms-lottery\bin\Debug\algorithms-lottery.exe
+C:\Users\urems\source\repos\workshop\algorithms-lottery\bin\Debug\algorithms-lottery.pdb
+C:\Users\urems\source\repos\workshop\algorithms-lottery\obj\Debug\algorithms-lottery.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\workshop\algorithms-lottery\obj\Debug\algorithms_lottery.Properties.Resources.resources
+C:\Users\urems\source\repos\workshop\algorithms-lottery\obj\Debug\algorithms-lottery.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\workshop\algorithms-lottery\obj\Debug\algorithms-lottery.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\workshop\algorithms-lottery\obj\Debug\algorithms-lottery.exe
+C:\Users\urems\source\repos\workshop\algorithms-lottery\obj\Debug\algorithms-lottery.pdb
+C:\Users\urems\source\repos\workshop\algorithms-lottery\obj\Debug\algorithms_lottery.Lottery.resources
