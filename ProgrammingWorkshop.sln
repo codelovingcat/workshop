@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "agorithms-fibonacci", "agorithms-fibonacci\agorithms-fibonacci.csproj", "{07301FE1-4CEF-4576-9774-06FC9875974E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithms-negative-positive-number", "algorithms-negative-positive-number\algorithms-negative-positive-number.csproj", "{3136BF65-9B13-4203-8122-82CFBABA41FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{07301FE1-4CEF-4576-9774-06FC9875974E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07301FE1-4CEF-4576-9774-06FC9875974E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07301FE1-4CEF-4576-9774-06FC9875974E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3136BF65-9B13-4203-8122-82CFBABA41FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3136BF65-9B13-4203-8122-82CFBABA41FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3136BF65-9B13-4203-8122-82CFBABA41FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3136BF65-9B13-4203-8122-82CFBABA41FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -26,6 +32,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{9D1CEE6B-A57C-4183-87AF-140F046EBDE8} = {A9B569C5-90C1-4CF2-8683-CE58772D759F}
 		{07301FE1-4CEF-4576-9774-06FC9875974E} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
+		{3136BF65-9B13-4203-8122-82CFBABA41FA} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {578F5A62-745A-418E-A02D-4ABBA1B477F7}

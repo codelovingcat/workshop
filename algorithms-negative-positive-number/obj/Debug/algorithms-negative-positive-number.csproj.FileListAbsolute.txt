@@ -1,0 +1,9 @@
+C:\Users\urems\source\repos\workshop\algorithms-negative-positive-number\bin\Debug\algorithms-negative-positive-number.exe.config
+C:\Users\urems\source\repos\workshop\algorithms-negative-positive-number\bin\Debug\algorithms-negative-positive-number.exe
+C:\Users\urems\source\repos\workshop\algorithms-negative-positive-number\bin\Debug\algorithms-negative-positive-number.pdb
+C:\Users\urems\source\repos\workshop\algorithms-negative-positive-number\obj\Debug\algorithms_negative_positive_number.Form1.resources
+C:\Users\urems\source\repos\workshop\algorithms-negative-positive-number\obj\Debug\algorithms_negative_positive_number.Properties.Resources.resources
+C:\Users\urems\source\repos\workshop\algorithms-negative-positive-number\obj\Debug\algorithms-negative-positive-number.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\workshop\algorithms-negative-positive-number\obj\Debug\algorithms-negative-positive-number.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\workshop\algorithms-negative-positive-number\obj\Debug\algorithms-negative-positive-number.exe
+C:\Users\urems\source\repos\workshop\algorithms-negative-positive-number\obj\Debug\algorithms-negative-positive-number.pdb
