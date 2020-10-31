@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\workshop\algorithms-largest-number\bin\Debug\algorithms-largest-number.exe.config
+C:\Users\urems\source\repos\workshop\algorithms-largest-number\bin\Debug\algorithms-largest-number.exe
+C:\Users\urems\source\repos\workshop\algorithms-largest-number\bin\Debug\algorithms-largest-number.pdb
+C:\Users\urems\source\repos\workshop\algorithms-largest-number\obj\Debug\algorithms-largest-number.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\workshop\algorithms-largest-number\obj\Debug\algorithms_largest_number.LargeNumber.resources
+C:\Users\urems\source\repos\workshop\algorithms-largest-number\obj\Debug\algorithms_largest_number.Properties.Resources.resources
+C:\Users\urems\source\repos\workshop\algorithms-largest-number\obj\Debug\algorithms-largest-number.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\workshop\algorithms-largest-number\obj\Debug\algorithms-largest-number.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\workshop\algorithms-largest-number\obj\Debug\algorithms-largest-number.exe
+C:\Users\urems\source\repos\workshop\algorithms-largest-number\obj\Debug\algorithms-largest-number.pdb
