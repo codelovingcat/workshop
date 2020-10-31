@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\workshop\algorihms-divisor\bin\Debug\algorihms-divisor.exe.config
+C:\Users\urems\source\repos\workshop\algorihms-divisor\bin\Debug\algorihms-divisor.exe
+C:\Users\urems\source\repos\workshop\algorihms-divisor\bin\Debug\algorihms-divisor.pdb
+C:\Users\urems\source\repos\workshop\algorihms-divisor\obj\Debug\algorihms-divisor.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\workshop\algorihms-divisor\obj\Debug\algorihms_divisor.Divisor.resources
+C:\Users\urems\source\repos\workshop\algorihms-divisor\obj\Debug\algorihms_divisor.Properties.Resources.resources
+C:\Users\urems\source\repos\workshop\algorihms-divisor\obj\Debug\algorihms-divisor.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\workshop\algorihms-divisor\obj\Debug\algorihms-divisor.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\workshop\algorihms-divisor\obj\Debug\algorihms-divisor.exe
+C:\Users\urems\source\repos\workshop\algorihms-divisor\obj\Debug\algorihms-divisor.pdb
