@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\workshop\two-number-plus\bin\Debug\two-number-plus.exe.config
+C:\Users\urems\source\repos\workshop\two-number-plus\bin\Debug\two-number-plus.exe
+C:\Users\urems\source\repos\workshop\two-number-plus\bin\Debug\two-number-plus.pdb
+C:\Users\urems\source\repos\workshop\two-number-plus\obj\Debug\two-number-plus.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\workshop\two-number-plus\obj\Debug\two_number_plus.Form1.resources
+C:\Users\urems\source\repos\workshop\two-number-plus\obj\Debug\two_number_plus.Properties.Resources.resources
+C:\Users\urems\source\repos\workshop\two-number-plus\obj\Debug\two-number-plus.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\workshop\two-number-plus\obj\Debug\two-number-plus.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\workshop\two-number-plus\obj\Debug\two-number-plus.exe
+C:\Users\urems\source\repos\workshop\two-number-plus\obj\Debug\two-number-plus.pdb
