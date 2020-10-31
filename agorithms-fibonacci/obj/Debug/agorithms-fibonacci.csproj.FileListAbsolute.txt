@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\workshop\agorithms-fibonacci\bin\Debug\agorithms-fibonacci.exe.config
+C:\Users\urems\source\repos\workshop\agorithms-fibonacci\bin\Debug\agorithms-fibonacci.exe
+C:\Users\urems\source\repos\workshop\agorithms-fibonacci\bin\Debug\agorithms-fibonacci.pdb
+C:\Users\urems\source\repos\workshop\agorithms-fibonacci\obj\Debug\agorithms-fibonacci.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\workshop\agorithms-fibonacci\obj\Debug\agorithms_fibonacci.Fibonacci.resources
+C:\Users\urems\source\repos\workshop\agorithms-fibonacci\obj\Debug\agorithms_fibonacci.Properties.Resources.resources
+C:\Users\urems\source\repos\workshop\agorithms-fibonacci\obj\Debug\agorithms-fibonacci.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\workshop\agorithms-fibonacci\obj\Debug\agorithms-fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\workshop\agorithms-fibonacci\obj\Debug\agorithms-fibonacci.exe
+C:\Users\urems\source\repos\workshop\agorithms-fibonacci\obj\Debug\agorithms-fibonacci.pdb
