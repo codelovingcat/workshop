@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithms-lottery", "algor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithms-divisor", "algorihms-divisor\algorithms-divisor.csproj", "{CCBCF79F-802E-4CE9-923A-4CA53B912523}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithms-area-calculation", "algorithms-calculator\algorithms-area-calculation.csproj", "{B76246CC-0B40-48BB-B7AD-EDF595E86B28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +39,10 @@ Global
 		{CCBCF79F-802E-4CE9-923A-4CA53B912523}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCBCF79F-802E-4CE9-923A-4CA53B912523}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCBCF79F-802E-4CE9-923A-4CA53B912523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B76246CC-0B40-48BB-B7AD-EDF595E86B28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B76246CC-0B40-48BB-B7AD-EDF595E86B28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B76246CC-0B40-48BB-B7AD-EDF595E86B28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B76246CC-0B40-48BB-B7AD-EDF595E86B28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -47,6 +53,7 @@ Global
 		{3136BF65-9B13-4203-8122-82CFBABA41FA} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
 		{7A37CBB5-A2C0-41DF-9276-99915A88D13F} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
 		{CCBCF79F-802E-4CE9-923A-4CA53B912523} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
+		{B76246CC-0B40-48BB-B7AD-EDF595E86B28} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {578F5A62-745A-418E-A02D-4ABBA1B477F7}

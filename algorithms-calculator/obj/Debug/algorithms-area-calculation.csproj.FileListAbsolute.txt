@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\workshop\algorithms-calculator\bin\Debug\algorithms-calculator.exe.config
+C:\Users\urems\source\repos\workshop\algorithms-calculator\bin\Debug\algorithms-calculator.exe
+C:\Users\urems\source\repos\workshop\algorithms-calculator\bin\Debug\algorithms-calculator.pdb
+C:\Users\urems\source\repos\workshop\algorithms-calculator\obj\Debug\algorithms-area-calculation.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\workshop\algorithms-calculator\obj\Debug\algorithms_calculator.Calculator.resources
+C:\Users\urems\source\repos\workshop\algorithms-calculator\obj\Debug\algorithms_calculator.Properties.Resources.resources
+C:\Users\urems\source\repos\workshop\algorithms-calculator\obj\Debug\algorithms-area-calculation.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\workshop\algorithms-calculator\obj\Debug\algorithms-area-calculation.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\workshop\algorithms-calculator\obj\Debug\algorithms-calculator.exe
+C:\Users\urems\source\repos\workshop\algorithms-calculator\obj\Debug\algorithms-calculator.pdb
