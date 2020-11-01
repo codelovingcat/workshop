@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\workshop\algorithms-seasons\bin\Debug\algorithms-seasons.exe.config
+C:\Users\urems\source\repos\workshop\algorithms-seasons\bin\Debug\algorithms-seasons.exe
+C:\Users\urems\source\repos\workshop\algorithms-seasons\bin\Debug\algorithms-seasons.pdb
+C:\Users\urems\source\repos\workshop\algorithms-seasons\obj\Debug\algorithms-seasons.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\workshop\algorithms-seasons\obj\Debug\algorithms_seasons.Season.resources
+C:\Users\urems\source\repos\workshop\algorithms-seasons\obj\Debug\algorithms_seasons.Properties.Resources.resources
+C:\Users\urems\source\repos\workshop\algorithms-seasons\obj\Debug\algorithms-seasons.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\workshop\algorithms-seasons\obj\Debug\algorithms-seasons.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\workshop\algorithms-seasons\obj\Debug\algorithms-seasons.exe
+C:\Users\urems\source\repos\workshop\algorithms-seasons\obj\Debug\algorithms-seasons.pdb
