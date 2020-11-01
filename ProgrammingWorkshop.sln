@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithms-seasons", "algor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithms-note-average", "algorithms-note-average\algorithms-note-average.csproj", "{CCDB2A38-9E87-4775-B152-AD4CDD2ADAD4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithms-how-old", "algorithms-how-old\algorithms-how-old.csproj", "{631D8197-EF6F-43BB-A8F0-69D617ABC02D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{CCDB2A38-9E87-4775-B152-AD4CDD2ADAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCDB2A38-9E87-4775-B152-AD4CDD2ADAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCDB2A38-9E87-4775-B152-AD4CDD2ADAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{631D8197-EF6F-43BB-A8F0-69D617ABC02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631D8197-EF6F-43BB-A8F0-69D617ABC02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631D8197-EF6F-43BB-A8F0-69D617ABC02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631D8197-EF6F-43BB-A8F0-69D617ABC02D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -82,6 +88,7 @@ Global
 		{30CA3ECC-97F4-467F-A3A3-40B44D3FC87D} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
 		{6899A8FB-3C12-4496-8B15-A7DFA30AAF00} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
 		{CCDB2A38-9E87-4775-B152-AD4CDD2ADAD4} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
+		{631D8197-EF6F-43BB-A8F0-69D617ABC02D} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {578F5A62-745A-418E-A02D-4ABBA1B477F7}

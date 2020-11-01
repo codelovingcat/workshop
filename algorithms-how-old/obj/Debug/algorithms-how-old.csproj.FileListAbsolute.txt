@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\workshop\algorithms-how-old\bin\Debug\algorithms-how-old.exe.config
+C:\Users\urems\source\repos\workshop\algorithms-how-old\bin\Debug\algorithms-how-old.exe
+C:\Users\urems\source\repos\workshop\algorithms-how-old\bin\Debug\algorithms-how-old.pdb
+C:\Users\urems\source\repos\workshop\algorithms-how-old\obj\Debug\algorithms-how-old.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\workshop\algorithms-how-old\obj\Debug\algorithms_how_old.HowOld.resources
+C:\Users\urems\source\repos\workshop\algorithms-how-old\obj\Debug\algorithms_how_old.Properties.Resources.resources
+C:\Users\urems\source\repos\workshop\algorithms-how-old\obj\Debug\algorithms-how-old.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\workshop\algorithms-how-old\obj\Debug\algorithms-how-old.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\workshop\algorithms-how-old\obj\Debug\algorithms-how-old.exe
+C:\Users\urems\source\repos\workshop\algorithms-how-old\obj\Debug\algorithms-how-old.pdb
