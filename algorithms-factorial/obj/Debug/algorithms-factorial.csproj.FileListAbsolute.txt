@@ -1,0 +1,9 @@
+C:\Users\urems\source\repos\workshop\algorithms-factorial\bin\Debug\algorithms-factorial.exe.config
+C:\Users\urems\source\repos\workshop\algorithms-factorial\bin\Debug\algorithms-factorial.exe
+C:\Users\urems\source\repos\workshop\algorithms-factorial\bin\Debug\algorithms-factorial.pdb
+C:\Users\urems\source\repos\workshop\algorithms-factorial\obj\Debug\algorithms_factorial.Factorial.resources
+C:\Users\urems\source\repos\workshop\algorithms-factorial\obj\Debug\algorithms_factorial.Properties.Resources.resources
+C:\Users\urems\source\repos\workshop\algorithms-factorial\obj\Debug\algorithms-factorial.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\workshop\algorithms-factorial\obj\Debug\algorithms-factorial.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\workshop\algorithms-factorial\obj\Debug\algorithms-factorial.exe
+C:\Users\urems\source\repos\workshop\algorithms-factorial\obj\Debug\algorithms-factorial.pdb
