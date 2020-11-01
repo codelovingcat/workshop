@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\workshop\algorithms-how-many-digits\bin\Debug\algorithms-how-many-digits.exe.config
+C:\Users\urems\source\repos\workshop\algorithms-how-many-digits\bin\Debug\algorithms-how-many-digits.exe
+C:\Users\urems\source\repos\workshop\algorithms-how-many-digits\bin\Debug\algorithms-how-many-digits.pdb
+C:\Users\urems\source\repos\workshop\algorithms-how-many-digits\obj\Debug\algorithms-how-many-digits.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\workshop\algorithms-how-many-digits\obj\Debug\algorithms_how_many_digits.HowManys.resources
+C:\Users\urems\source\repos\workshop\algorithms-how-many-digits\obj\Debug\algorithms_how_many_digits.Properties.Resources.resources
+C:\Users\urems\source\repos\workshop\algorithms-how-many-digits\obj\Debug\algorithms-how-many-digits.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\workshop\algorithms-how-many-digits\obj\Debug\algorithms-how-many-digits.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\workshop\algorithms-how-many-digits\obj\Debug\algorithms-how-many-digits.exe
+C:\Users\urems\source\repos\workshop\algorithms-how-many-digits\obj\Debug\algorithms-how-many-digits.pdb
