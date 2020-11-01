@@ -1,0 +1,10 @@
+C:\Users\urems\source\repos\workshop\algorithms-note-average\bin\Debug\algorithms-note-average.exe.config
+C:\Users\urems\source\repos\workshop\algorithms-note-average\bin\Debug\algorithms-note-average.exe
+C:\Users\urems\source\repos\workshop\algorithms-note-average\bin\Debug\algorithms-note-average.pdb
+C:\Users\urems\source\repos\workshop\algorithms-note-average\obj\Debug\algorithms-note-average.csprojAssemblyReference.cache
+C:\Users\urems\source\repos\workshop\algorithms-note-average\obj\Debug\algorithms_note_average.Form1.resources
+C:\Users\urems\source\repos\workshop\algorithms-note-average\obj\Debug\algorithms_note_average.Properties.Resources.resources
+C:\Users\urems\source\repos\workshop\algorithms-note-average\obj\Debug\algorithms-note-average.csproj.GenerateResource.cache
+C:\Users\urems\source\repos\workshop\algorithms-note-average\obj\Debug\algorithms-note-average.csproj.CoreCompileInputs.cache
+C:\Users\urems\source\repos\workshop\algorithms-note-average\obj\Debug\algorithms-note-average.exe
+C:\Users\urems\source\repos\workshop\algorithms-note-average\obj\Debug\algorithms-note-average.pdb
