@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithms-factorial", "alg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithms-how-many-digits", "algorithms-how-many-digits\algorithms-how-many-digits.csproj", "{1326257B-BBFF-4705-9AB3-4ACF1FF38DFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "efatura-core", "efatura-core\efatura-core.csproj", "{CC23E25B-8C74-4979-AE63-FC1A7DE89E7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -85,6 +87,10 @@ Global
 		{1326257B-BBFF-4705-9AB3-4ACF1FF38DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1326257B-BBFF-4705-9AB3-4ACF1FF38DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1326257B-BBFF-4705-9AB3-4ACF1FF38DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+			{CC23E25B-8C74-4979-AE63-FC1A7DE89E7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+			{CC23E25B-8C74-4979-AE63-FC1A7DE89E7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+			{CC23E25B-8C74-4979-AE63-FC1A7DE89E7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+			{CC23E25B-8C74-4979-AE63-FC1A7DE89E7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -103,6 +109,7 @@ Global
 		{631D8197-EF6F-43BB-A8F0-69D617ABC02D} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
 		{206C0468-7F04-48B7-901B-CCF324E69D07} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
 		{1326257B-BBFF-4705-9AB3-4ACF1FF38DFA} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
+			{CC23E25B-8C74-4979-AE63-FC1A7DE89E7C} = {9D1CEE6B-A57C-4183-87AF-140F046EBDE8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {578F5A62-745A-418E-A02D-4ABBA1B477F7}
